@@ -16,14 +16,16 @@ We create a three-component dashboard linking around a speedy crop model. The th
 ### Data Explorer
 Allows the user to visualize the data that goes **into** the model.
 
- <img src="www/data_explorer.PNG" width="200" title="Data Explorer">
+
  
 ### Model Explorer
 A quick overview of the models structure with key performance metrics. This gives the user at-a-glance information about how the model functions, how good it is, and which variables it uses.
 
- <img src="www/model_explorer.PNG"  width="200" title="Model Explorer">
+
  
 ### Scenario Explorer
 Here, the user can change the environmental variables that are input to the model - within reason - to explore possible scenarios and how the model responds to changes in certain variables.
 
+ <img src="www/data_explorer.PNG" width="200" title="Data Explorer">
+  <img src="www/model_explorer.PNG"  width="200" title="Model Explorer">
  <img src="www/scenario_explorer.PNG"  width="200" title="Scenario Explorer">
