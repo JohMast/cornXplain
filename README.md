@@ -16,7 +16,7 @@ We create a three-component dashboard linking around a speedy crop model. The th
 ### Data Explorer
 Allows the user to visualize the data that goes **into** the model.
 
- <img src="www/data_explorer.png" width="200" title="Data Explorer">
+ <img src="www/data_explorer.PNG" width="200" title="Data Explorer">
  
 ### Model Explorer
 A quick overview of the models structure with key performance metrics. This gives the user at-a-glance information about how the model functions, how good it is, and which variables it uses.
