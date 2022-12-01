@@ -18,6 +18,7 @@ Allows the user to visualize the data that goes **into** the model, with links t
 
  <img src="www/data_explorer.PNG" width="500" title="Data Explorer">
  
+ 
 ### Model Explorer
 A quick overview of the models structure with key performance metrics. This gives the user at-a-glance information about how the model functions, how good it is, and which variables it uses.
 
