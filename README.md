@@ -14,18 +14,17 @@ Many good tools for crop modeling and explainability are available. However, the
 We create a three-component dashboard linking around a speedy crop model. The three components allow the user to explore the input **data**, the **model** performance and variable importances, and counterfactual **scenarios**.
 
 ### Data Explorer
-Allows the user to visualize the data that goes **into** the model.
+Allows the user to visualize the data that goes **into** the model, with links to further information on the web.
 
  <img src="www/data_explorer.PNG" width="500" title="Data Explorer">
  
 ### Model Explorer
 A quick overview of the models structure with key performance metrics. This gives the user at-a-glance information about how the model functions, how good it is, and which variables it uses.
 
-
-  <img src="www/model_explorer.PNG"  width="500" title="Model Explorer">
+<img src="www/model_explorer.PNG"  width="500" title="Model Explorer">
+  
 ### Scenario Explorer
 Here, the user can change the environmental variables that are input to the model - within reason - to explore possible scenarios and how the model responds to changes in certain variables.
-
 
  <img src="www/scenario_explorer.PNG"  width="500" title="Scenario Explorer">
 
