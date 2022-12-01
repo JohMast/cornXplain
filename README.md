@@ -26,7 +26,7 @@ A quick overview of the models structure with key performance metrics. This give
 ### Scenario Explorer
 Here, the user can change the environmental variables that are input to the model - within reason - to explore possible scenarios and how the model responds to changes in certain variables.
 <p float="left">
- <img src="www/data_explorer.PNG" width="200" title="Data Explorer">
- <img src="www/model_explorer.PNG"  width="200" title="Model Explorer">
- <img src="www/scenario_explorer.PNG"  width="200" title="Scenario Explorer">
+ <img src="www/data_explorer.PNG" width="350" title="Data Explorer">
+ <img src="www/model_explorer.PNG"  width="350" title="Model Explorer">
+ <img src="www/scenario_explorer.PNG"  width="350" title="Scenario Explorer">
 </p>
