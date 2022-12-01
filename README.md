@@ -22,7 +22,7 @@ Allows the user to visualize the data that goes **into** the model, with links t
 ### Model Explorer
 A quick overview of the models structure with key performance metrics. This gives the user at-a-glance information about how the model functions, how good it is, and which variables it uses.
 
-<img src="www/model_explorer.PNG"  width="500" title="Model Explorer">
+<img src="www/model_explorer_.PNG"  width="500" title="Model Explorer">
   
 ### Scenario Explorer
 Here, the user can change the environmental variables that are input to the model - within reason - to explore possible scenarios and how the model responds to changes in certain variables.
